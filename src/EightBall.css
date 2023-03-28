@@ -1,0 +1,33 @@
+.EightBall {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+
+.EightBall-ball {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.EightBall-span {
+    text-align: center;
+}
+
+.EightBall-btn {
+    display: block;
+    margin: 50px auto;
+}
+
+.EightBall-colorCount {
+    display: block;
+    text-align: center;
+}
