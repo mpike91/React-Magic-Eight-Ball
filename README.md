@@ -12,4 +12,4 @@ Simple app emulating the classic Magic Eight Ball. "Ask" a question, click on th
 4) Start app: `npm start`
 
 ## My Contribution
-No starter code was provided.
+No starter code was provided. The entire app was written by me.
